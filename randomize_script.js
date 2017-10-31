@@ -24,7 +24,8 @@ function getRandromQuote()  {
     "Simple and Sophisticated. :)",
     "Live. Laugh. Love.",
     "Keep It Simple",
-    "Theri Baby"
+    "Theri Baby",
+    "Mersal baby"
     
   ]
 
